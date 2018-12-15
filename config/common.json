@@ -1,0 +1,15 @@
+{
+    "config": {
+        "data": {
+            "persistence": {
+                "storageClass": "default"
+            }
+        },
+        "master": {
+            "persistence": {
+                "storageClass": "default"
+            }
+        },
+        "namespace": "elasticsearch"
+    }
+}
